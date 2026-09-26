@@ -399,6 +399,10 @@
     "outline_fade": {
       "author": "blank3times"
     },
+    "outline_fade_up": {
+      "name": "Outline Fade (Up)",
+      "author": "BjornV"
+    },
     "glass": {
       "author": "BitseK"
     },
